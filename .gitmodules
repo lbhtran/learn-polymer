@@ -1,6 +1,3 @@
 [submodule "polye"]
 	path = polye
 	url = https://github.com/PolymerLabs/polymer-2-first-element.git
-[submodule "polymer-element"]
-	path = polymer-element
-	url = https://github.com/PolymerLabs/polymer-2-first-element.git
